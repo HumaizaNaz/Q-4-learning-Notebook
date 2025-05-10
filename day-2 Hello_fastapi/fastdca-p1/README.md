@@ -202,4 +202,4 @@ Conclusion
 FastAPI is a powerful, fast, and user-friendly framework that simplifies API development. Since its release in 2018, it has become a go-to choice for building modern, high-performance APIs. This project provides a starting point for building your own APIs with FastAPI, UV, and Uvicorn.
 For more details, visit the FastAPI documentation.
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for detai
