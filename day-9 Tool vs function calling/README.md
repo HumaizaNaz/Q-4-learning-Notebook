@@ -1,0 +1,1 @@
+<!-- https://medium.com/@humaizaasghar/function-calling-and-tool-calling-in-agentic-ai-0627303d99a9 -->
